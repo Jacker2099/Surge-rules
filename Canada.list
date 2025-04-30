@@ -1,0 +1,27 @@
+# bitbuy交易所
+DOMAIN-SUFFIX,bitbuy.ca
+DOMAIN,api.bitbuy.ca
+DOMAIN,www.bitbuy.ca
+DOMAIN,auth.bitbuy.ca
+DOMAIN-SUFFIX,s3.ca-central-1.amazonaws.com
+DOMAIN-SUFFIX,interac.ca
+#coinsquare交易所
+DOMAIN-SUFFIX,coinsquare.com
+DOMAIN,api.coinsquare.com
+DOMAIN,auth.coinsquare.com
+DOMAIN,login.coinsquare.com
+DOMAIN,www.coinsquare.com
+DOMAIN,app.coinsquare.com
+DOMAIN-SUFFIX,amazonaws.com
+#shakepay交易所
+DOMAIN-SUFFIX,shakepay.com
+DOMAIN,api.shakepay.com
+DOMAIN,www.shakepay.com
+DOMAIN,app.shakepay.com
+DOMAIN,auth.shakepay.com
+#Koho数字银行
+DOMAIN-SUFFIX,koho.ca
+DOMAIN,api.koho.ca
+DOMAIN,app.koho.ca
+DOMAIN,www.koho.ca
+DOMAIN,auth.koho.ca
