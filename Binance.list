@@ -19,3 +19,6 @@ IP-CIDR,47.246.0.0/16,no-resolve
 IP-CIDR,203.107.1.0/24,no-resolve
 IP-CIDR,13.124.0.0/14,no-resolve
 IP-CIDR,52.78.0.0/16,no-resolve
+DOMAIN-SUFFIX,binancezh.cc
+DOMAIN-SUFFIX,binstatic.com
+PROCESS-NAME,Binance
