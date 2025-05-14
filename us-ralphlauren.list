@@ -14,5 +14,3 @@ DOMAIN-SUFFIX,tealium.com  # 用户行为追踪
 DOMAIN-SUFFIX,optimizely.com  # A/B测试
 IP-CIDR,23.32.0.0/11,no-resolve 
 IP-CIDR,104.64.0.0/10,no-resolve 
-# 动态获取最新CDN IP（需Surge MITM支持）
-URL-REGEX,^https?://.*\.ralphlauren\.com/.*\.(js|css|png|jpg)
