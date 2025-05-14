@@ -1,0 +1,18 @@
+# 主站及关键域名
+DOMAIN,www.ralphlauren.com
+DOMAIN-SUFFIX,ralphlauren.com
+DOMAIN-SUFFIX,rlmedia.com # 静态资源
+DOMAIN-SUFFIX,ralphlauren.com.edgesuite.net
+DOMAIN-SUFFIX,ralphlauren.scene7.com
+DOMAIN-KEYWORD,api.ralphlauren # 覆盖所有API子域名
+DOMAIN-KEYWORD,checkout.ralphlauren  # 结账页面
+DOMAIN-KEYWORD,payment.ralphlauren  # 支付接口
+DOMAIN-SUFFIX,braintreegateway.com
+# 风控与数据分析（避免因IP暴露导致砍单）
+DOMAIN-SUFFIX,trustarc.com  # 隐私合规
+DOMAIN-SUFFIX,tealium.com  # 用户行为追踪
+DOMAIN-SUFFIX,optimizely.com  # A/B测试
+IP-CIDR,23.32.0.0/11,no-resolve 
+IP-CIDR,104.64.0.0/10,no-resolve 
+# 动态获取最新CDN IP（需Surge MITM支持）
+URL-REGEX,^https?://.*\.ralphlauren\.com/.*\.(js|css|png|jpg)
