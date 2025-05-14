@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,fsusercontent.com
 DOMAIN-SUFFIX,scene7.com
 DOMAIN-SUFFIX,cquotient.com
+DOMAIN-SUFFIX,brandingbrand.com
 # 风控与数据分析（避免因IP暴露导致砍单）
 DOMAIN-SUFFIX,trustarc.com  # 隐私合规
 DOMAIN-SUFFIX,tealium.com  # 用户行为追踪
