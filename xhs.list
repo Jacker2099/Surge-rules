@@ -4,4 +4,5 @@ DOMAIN-SUFFIX,xiaohongshuapp.cn
 DOMAIN-SUFFIX,xhscdn.com
 IP-CIDR,47.95.0.0/16,no-resolve
 IP-CIDR,101.133.0.0/16,no-resolve
+IP-CIDR,140.207.56.254:443,no-resolve
 PROCESS-NAME,xhs
