@@ -1,0 +1,14 @@
+#!name=DoH 加密 DNS 防泄漏
+#!desc=使用 AdGuard、Cloudflare 等可信 DoH，防系统 DNS 泄漏
+#!author=ChatGPT
+
+[General]
+dns-server = https://dns.adguard.com/dns-query, https://cloudflare-dns.com/dns-query, https://dns.google/dns-query
+always-resolve = true
+enhanced-mode = fake-ip
+exclude-simple-hostnames = true
+skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 127.0.0.1/8
+
+[DNS]
+no-system = true
+no-ipv6 = true
