@@ -45,5 +45,8 @@ IP-CIDR,117.81.0.0/16,no-resolve
 IP-CIDR,36.150.0.0/16,no-resolve
 IP-CIDR,121.43.0.0/16,no-resolve
 IP-CIDR,112.65.0.0/16,no-resolve
+IP-CIDR,43.159.0.0/16,no-resolve
+IP-CIDR,150.139.0.0/16,no-resolve
+IP-CIDR,106.8.0.0/16,no-resolve
 DOMAIN-KEYWORD,xiaohongshu
 PROCESS-NAME,xhs
