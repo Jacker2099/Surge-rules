@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,xinqiucc.com
 DOMAIN-SUFFIX,kuiniuca.com
+DOMAIN-SUFFIX,tianwenca.com
 IP-CIDR,47.95.0.0/16,no-resolve
 IP-CIDR,101.133.0.0/16,no-resolve
 IP-CIDR,140.207.56.254/32,no-resolve
@@ -38,5 +39,11 @@ IP-CIDR,110.19.0.0/16,no-resolve
 IP-CIDR,116.115.0.0/16,no-resolve
 IP-CIDR,110.242.0.0/16,no-resolve
 IP-CIDR,111.63.0.0/16,no-resolve
+IP-CIDR,47.246.0.0/16,no-resolve
+IP-CIDR,119.249.0.0/16,no-resolve
+IP-CIDR,117.81.0.0/16,no-resolve
+IP-CIDR,36.150.0.0/16,no-resolve
+IP-CIDR,121.43.0.0/16,no-resolve
+IP-CIDR,112.65.0.0/16,no-resolve
 DOMAIN-KEYWORD,xiaohongshu
 PROCESS-NAME,xhs
