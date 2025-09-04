@@ -2,4 +2,6 @@ DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,kucoin.plus
 DOMAIN-SUFFIX,xcoinsystem.com
 DOMAIN-SUFFIX,kuweb3.net
+DOMAIN-SUFFIX,forter.com
 IP-CIDR,172.64.0.0/16,no-resolve
+IP-CIDR,104.180.0.0/16,no-resolve
