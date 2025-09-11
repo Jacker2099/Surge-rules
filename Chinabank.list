@@ -5,3 +5,7 @@ DOMAIN-SUFFIX,95599.com.cn
 DOMAIN-SUFFIX,95599.com
 DOMAIN-SUFFIX,95599.net
 DOMAIN-SUFFIX,95599.org
+PROCESS-NAME,com.chinamworld.main
+PROCESS-NAME,com.icbc.iphoneclient
+PROCESS-NAME,com.cmbchina.ccd.pluto
+PROCESS-NAME,com.abc.abchina
