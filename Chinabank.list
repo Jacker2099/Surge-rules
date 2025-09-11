@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,msmp.abchina.com.cn,REJECT,pre-matching,extended-matching
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,abc.com.cn
 DOMAIN-SUFFIX,95599.cn
