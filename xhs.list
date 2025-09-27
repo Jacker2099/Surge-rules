@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,xinqiucc.com
 DOMAIN-SUFFIX,kuiniuca.com
 DOMAIN-SUFFIX,tianwenca.com
 DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,qq.com
 IP-CIDR,47.95.0.0/16,no-resolve
 IP-CIDR,101.133.0.0/16,no-resolve
 IP-CIDR,140.207.56.254/32,no-resolve
@@ -68,5 +69,8 @@ IP-CIDR,125.37.0.0/16,no-resolve
 IP-CIDR,1.13.0.0/16,no-resolve
 IP-CIDR,119.29.0.0/16,no-resolve
 IP-CIDR,140.207.0.0/16,no-resolve
+IP-CIDR,123.6.0.0/16,no-resolve
+IP-CIDR,182.50.0.0/16,no-resolve
+IP-CIDR,43.145.0.0/16,no-resolve
 DOMAIN-KEYWORD,xiaohongshu
 PROCESS-NAME,xhs
