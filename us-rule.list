@@ -48,3 +48,4 @@ DOMAIN-SUFFIX,adobedc.net
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,ibllc.com
 DOMAIN-SUFFIX,ibkr.com
+IP-CIDR,149.154.0.0/16,no-resolve
