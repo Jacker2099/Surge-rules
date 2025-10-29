@@ -50,4 +50,5 @@ DOMAIN-SUFFIX,ibllc.com
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,verizon.com
 DOMAIN-SUFFIX,vzw.com
+DOMAIN-SUFFIX,cdn-apple.com
 IP-CIDR,149.154.0.0/16,no-resolve
