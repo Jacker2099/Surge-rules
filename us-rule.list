@@ -55,7 +55,7 @@ DOMAIN-SUFFIX,wf.com
 DOMAIN-SUFFIX,wellsfargo.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,cdn.branch.io
+DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 DOMAIN-SUFFIX,afx-server.com
 DOMAIN-SUFFIX,wellsfargomedia.com
@@ -68,3 +68,4 @@ IP-CIDR,119.28.0.0/16,no-resolve
 IP-CIDR,210.28.0.0/16,no-resolve
 IP-CIDR,110.42.0.0/16,no-resolve
 IP-CIDR,14.103.0.0/16,no-resolve
+IP-CIDR,185.209.0.0/16,no-resolve
