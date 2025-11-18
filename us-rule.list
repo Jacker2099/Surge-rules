@@ -55,3 +55,7 @@ DOMAIN-SUFFIX,wf.com
 DOMAIN-SUFFIX,wellsfargo.com
 DOMAIN-SUFFIX,wellsfargomedia.com
 IP-CIDR,149.154.0.0/16,no-resolve
+IP-CIDR,84.16.0.0/16,no-resolve
+IP-CIDR,193.182.0.0/16,no-resolve
+IP-CIDR,162.159.0.0/16,no-resolve
+IP-CIDR,139.199.0.0/16,no-resolve
