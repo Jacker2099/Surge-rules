@@ -51,4 +51,7 @@ DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,verizon.com
 DOMAIN-SUFFIX,vzw.com
 DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,wf.com
+DOMAIN-SUFFIX,wellsfargo.com
+DOMAIN-SUFFIX,wellsfargomedia.com
 IP-CIDR,149.154.0.0/16,no-resolve
