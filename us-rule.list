@@ -66,7 +66,9 @@ DOMAIN-SUFFIX,afx-server.com
 DOMAIN-SUFFIX,wellsfargomedia.com
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,lh3.googleusercontent.com
-DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,fbcdn.net
 IP-CIDR,149.154.0.0/16,no-resolve
 IP-CIDR,84.16.0.0/16,no-resolve
 IP-CIDR,193.182.0.0/16,no-resolve
