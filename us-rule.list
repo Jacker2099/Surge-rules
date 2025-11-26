@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,lh3.googleusercontent.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,crashlytics.com
 IP-CIDR,149.154.0.0/16,no-resolve
 IP-CIDR,84.16.0.0/16,no-resolve
 IP-CIDR,193.182.0.0/16,no-resolve
