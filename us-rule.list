@@ -76,6 +76,7 @@ DOMAIN-SUFFIX,api.cloud.gist.build
 DOMAIN-SUFFIX,dler.cloud
 DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,digicert.com
 IP-CIDR,149.154.0.0/16,no-resolve
 IP-CIDR,84.16.0.0/16,no-resolve
 IP-CIDR,193.182.0.0/16,no-resolve
