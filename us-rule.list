@@ -82,6 +82,9 @@ DOMAIN-SUFFIX,soficdn.net
 DOMAIN-SUFFIX,pave.dev
 DOMAIN-SUFFIX,securetheorem.com
 DOMAIN-SUFFIX,mparticle.com
+DOMAIN-SUFFIX,probity.io
+DOMAIN-SUFFIX,veriff.me
+DOMAIN-SUFFIX,glassboxdigital.io
 IP-CIDR,149.154.0.0/16,no-resolve
 IP-CIDR,84.16.0.0/16,no-resolve
 IP-CIDR,193.182.0.0/16,no-resolve
