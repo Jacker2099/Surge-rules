@@ -88,6 +88,10 @@ DOMAIN-SUFFIX,veriff.com
 DOMAIN-SUFFIX,glassboxcdn.com
 DOMAIN-SUFFIX,glassboxdigital.io
 DOMAIN-SUFFIX,yimg.com
+DOMAIN-SUFFIX,shopifycloud.com
+DOMAIN-SUFFIX,shopifysvc.com
+DOMAIN-SUFFIX,shopifyapps.com
+DOMAIN-SUFFIX,myshopify.com
 IP-CIDR,149.154.0.0/16,no-resolve
 IP-CIDR,84.16.0.0/16,no-resolve
 IP-CIDR,193.182.0.0/16,no-resolve
