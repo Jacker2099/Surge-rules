@@ -101,6 +101,8 @@ DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,online-metrix.net
 DOMAIN-SUFFIX,cnouyi.pizza
 DOMAIN-SUFFIX,onesignal.com
+DOMAIN-SUFFIX,analytics-services-att.com
+DOMAIN-SUFFIX,bytepluscdn.com
 IP-CIDR,149.154.0.0/16,no-resolve
 IP-CIDR,84.16.0.0/16,no-resolve
 IP-CIDR,193.182.0.0/16,no-resolve
