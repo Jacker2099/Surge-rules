@@ -110,6 +110,11 @@ DOMAIN-SUFFIX,alchemy.com
 DOMAIN-SUFFIX,revopush.org
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,munify.ai
+DOMAIN-SUFFIX,static-consumer.renasant.online-banking-services.com
+DOMAIN-SUFFIX,account-open.online-banking-services.com
+DOMAIN-SUFFIX,mobile.renasant.online-banking-services.com
+DOMAIN-SUFFIX,content.fisglobal.com
+DOMAIN-SUFFIX,dynatrace.com
 DOMAIN-SUFFIX,network.dv.socure.io
 IP-CIDR,149.154.0.0/16,no-resolve
 IP-CIDR,84.16.0.0/16,no-resolve
