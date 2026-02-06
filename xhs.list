@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,kuiniuca.com
 DOMAIN-SUFFIX,tianwenca.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,autonavi.com
 IP-CIDR,47.95.0.0/16,no-resolve
 IP-CIDR,101.133.0.0/16,no-resolve
 IP-CIDR,140.207.56.254/32,no-resolve
@@ -77,5 +78,7 @@ IP-CIDR,119.36.0.0/16,no-resolve
 IP-CIDR,101.226.0.0/16,no-resolve
 IP-CIDR,66.93.0.0/16,no-resolve
 IP-CIDR,114.55.0.0/16,no-resolve
+IP-CIDR,23.45.0.0/16,no-resolve
+IP-CIDR,155.102.0.0/16,no-resolve
 DOMAIN-KEYWORD,xiaohongshu
 PROCESS-NAME,xhs
