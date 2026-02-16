@@ -128,6 +128,9 @@ DOMAIN-SUFFIX,beonpath.org
 DOMAIN-SUFFIX,app-analytics-services-att.com
 DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,network.dv.socure.io
+DOMAIN-SUFFIX,openbank.us
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,everesttech.net
 IP-CIDR,149.154.0.0/16,no-resolve
 IP-CIDR,84.16.0.0/16,no-resolve
 IP-CIDR,193.182.0.0/16,no-resolve
