@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,t.co
 # IP（可选，稳定使用建议添加）
 IP-CIDR,104.244.42.0/24,no-resolve
 IP-CIDR,199.16.156.0/22,no-resolve
