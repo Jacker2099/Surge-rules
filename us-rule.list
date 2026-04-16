@@ -139,6 +139,9 @@ DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,privacy.com
 DOMAIN-SUFFIX,everesttech.net
+PROCESS-NAME,Antigravity
+PROCESS-NAME,Antigravity Helper
+PROCESS-NAME,language_server_macos_x64
 IP-CIDR,149.154.0.0/16,no-resolve
 IP-CIDR,84.16.0.0/16,no-resolve
 IP-CIDR,193.182.0.0/16,no-resolve
