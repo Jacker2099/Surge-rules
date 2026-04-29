@@ -1,3 +1,91 @@
+# ============================================================
+# 增强版 AI 规则集（Claude + GPT + 多平台）
+# 更新：2026-04-28
+# 来源：xiaolai + ennann 合并增强
+# ============================================================
+
+# ---------- OpenAI / GPT / ChatGPT ----------
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN,auth0.openai.com
+DOMAIN,pay.openai.com
+DOMAIN,platform.openai.com
+DOMAIN,openaiapi-site.azureedge.net
+
+# ---------- Claude / Anthropic（增强版） ----------
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,trust.anthropic.com
+DOMAIN,api.anthropic.com
+DOMAIN,cdn.anthropic.com
+DOMAIN,mcp.anthropic.com
+DOMAIN,console.anthropic.com
+DOMAIN,workbench.anthropic.com
+DOMAIN,anthropic.auth0.com
+DOMAIN,statsig.anthropic.com
+DOMAIN,anthropic-com.ghost.io
+DOMAIN,anthropic.com.cdn.cloudflare.net
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN,platform.claude.com
+DOMAIN,code.claude.com
+DOMAIN,downloads.claude.ai
+DOMAIN,status.claude.com
+DOMAIN,support.claude.com
+DOMAIN,browser-intake-us5-datadoghq.com
+DOMAIN,cdn.usefathom.com
+DOMAIN,cdn.growthbook.io
+
+# ---------- 其他常用 AI 平台 ----------
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,g.ai
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,dify.ai
+
+# ---------- 支持 / 登录 / 统计 / 支付 ----------
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,invoice.stripe.com
+DOMAIN-SUFFIX,usefathom.com
+DOMAIN-SUFFIX,storage.googleapis.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,featuregates.org
+
+# ---------- 关键词兜底（放最后） ----------
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,grok
+
+# ---------- Anthropic 官方 IP 段（no-resolve） ----------
+IP-CIDR,160.79.104.0/21,no-resolve
+IP-CIDR6,2607:6bc0::/48,no-resolve
+IP-ASN,399358,no-resolve
+
+# ============================================================
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,aol.com
