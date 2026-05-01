@@ -230,6 +230,11 @@ DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,privacy.com
 DOMAIN-SUFFIX,everesttech.net
+# ========== 领英国际版专用规则 ==========
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com          
+DOMAIN-KEYWORD,linkedin
+# =========================================
 PROCESS-NAME,Antigravity
 PROCESS-NAME,Antigravity Helper
 PROCESS-NAME,language_server_macos_x64
