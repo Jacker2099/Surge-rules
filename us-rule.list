@@ -87,6 +87,7 @@ IP-ASN,399358,no-resolve
 
 # ============================================================
 DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,infini.money
 DOMAIN-SUFFIX,kiro.dev
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,aol.com
