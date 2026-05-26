@@ -6,7 +6,6 @@
 
 # ---------- OpenAI / GPT / ChatGPT ----------
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,vircs.com
 DOMAIN-SUFFIX,textnow.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
